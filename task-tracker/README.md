@@ -2,6 +2,8 @@
 
 A simple command-line interface (CLI) tool to manage tasks, built with Node.js. Tasks are stored in a JSON file in the current directory, and the tool supports adding, updating, deleting, and listing tasks with various statuses. Terminal output is styled with colors for better readability.
 
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 ## Requirements
 
 - Node.js (version 14 or higher recommended)
